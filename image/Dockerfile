@@ -1,4 +1,4 @@
-FROM cassandra:2.2
+FROM cassandra:latest
 MAINTAINER Vy-Shane Xie <shane@node.mu>
 ENV REFRESHED_AT 2015-12-23
 
